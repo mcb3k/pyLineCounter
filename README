@@ -1,0 +1,19 @@
+!/usr/bin/english
+
+//a brief introduction to this package
+//  by mcb3k
+
+Hello, and welcome to pyLineCounter!
+
+Currently the ground work for this program has been written largely by mcb3k with some advice and input from alm4x.  This program was initially written for a software development class.  It is currently written to take in a user specified file and return the physical lines of code.  By physical lines of code, I mean that the program returns how many lines, including blank lines, exist in the file.  The program was assigned to work on python files, but there is no reason if cannot work for any given text or source file.  I am uncertain what will happen if a .doc or .mp3 file were to be sent through the program.
+
+A vision for the future:
+ * count logical lines of code, e.g. the number of lines of code minus all comments and blank lines.
+ * error checking, so that .doc or .mp3, etc, don't get sent through the program
+ * possibly a GUI, though that would probably be in the far future
+
+This file will be updated as necessary.
+
+
+
+ 
